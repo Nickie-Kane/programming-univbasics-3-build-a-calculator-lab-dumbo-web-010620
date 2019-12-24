@@ -10,6 +10,7 @@ end
 
 def division(num1, num2)
   div = num2 / num1
+  puts div
   return div
 end
 
